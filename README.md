@@ -1,2 +1,2 @@
 # image
-image
+Mappe til image
